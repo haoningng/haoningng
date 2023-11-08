@@ -23,7 +23,7 @@
 
 ---
 
-### 📚 Educations:
+### 📚 Education:
 
 Holberton School Australia
 * [Full Stack Software Engineering Course](https://holbertonschool.com.au/software-engineering-holberton-australia/) (WIP)
