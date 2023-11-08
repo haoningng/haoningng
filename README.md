@@ -15,13 +15,29 @@
 
 - 👨‍💻 I’m a software engineering student at Holberton School Australia
 
-- 🔭 I'm building projects on the side by doing Harvard [CS50's Web Programming course](https://cs50.harvard.edu/web/2020/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 🌱 I’m currently learning to build web applications using Django framework.
+- 🔭 I'm building projects on the side by doing [The Odin Project](https://www.theodinproject.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :zap: In my free time, I read books and sometimes write technical contents on [Medium](https://medium.com/@haoningng)
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nick_Ng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haoning-ng-b27706b0/)
+
+---
+
+### 📚 Educations:
+
+Holberton School Australia
+* [Full Stack Software Engineering Course](https://holbertonschool.com.au/software-engineering-holberton-australia/) (WIP)
+
+HarvardX
+* [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (completed)
+* [CS50's Web Programming with Python and Javascript] (WIP)
+
+Free Code Camp
+* [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (WIP)
+* [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (completed)
+
+The Odin Project
+* [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) (WIP)
 
 ---
 
