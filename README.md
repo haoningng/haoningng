@@ -30,7 +30,7 @@ Holberton School Australia
 
 HarvardX
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (completed)
-* [CS50's Web Programming with Python and Javascript] (WIP)
+* [CS50's Web Programming with Python and Javascript](https://cs50.harvard.edu/web/2020/) (WIP)
 
 Free Code Camp
 * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (WIP)
