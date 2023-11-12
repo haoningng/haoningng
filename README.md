@@ -15,9 +15,9 @@
 
 - 👨‍💻 I’m a software engineering student at Holberton School Australia
 
-- 🔭 I'm building projects on the side by doing [The Odin Project](https://www.theodinproject.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I'm currently learning about React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :zap: In my free time, I read books and sometimes write technical contents on [Medium](https://medium.com/@haoningng)
+- :zap: In my free time, I read books and sometimes write technical content on [Medium](https://medium.com/@haoningng)
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nick_Ng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haoning-ng-b27706b0/)
 
@@ -33,8 +33,12 @@ HarvardX
 * [CS50's Web Programming with Python and Javascript](https://cs50.harvard.edu/web/2020/) (WIP)
 
 Free Code Camp
-* [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (WIP)
+* [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (completed)
 * [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (completed)
+* [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) (WIP)
+
+Scrimba
+* [Learn React](https://scrimba.com/learn/learnreact) (WIP)
 
 The Odin Project
 * [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) (WIP)
