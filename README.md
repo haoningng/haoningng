@@ -32,7 +32,7 @@ HarvardX
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (completed)
 * [CS50's Web Programming with Python and Javascript](https://cs50.harvard.edu/web/2020/) (WIP)
 
-Free Code Camp
+![Static Badge](https://img.shields.io/badge/freecodecamp-rgb(17%2C34%2C51)?logo=freecodecamp&logoColor=rgb(112%2C154%2C38)&color=rgb(17%2C34%2C51))
 * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (completed)
 * [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (completed)
 * [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) (WIP)
