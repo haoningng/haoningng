@@ -25,22 +25,22 @@
 
 ### 📚 Education:
 
-Holberton School Australia
+![Static Badge](https://img.shields.io/badge/Holberton%20School%20Australia%20-%20rgb(209%2C54%2C69)?style=for-the-badge)
 * [Full Stack Software Engineering Course](https://holbertonschool.com.au/software-engineering-holberton-australia/) (WIP)
 
-HarvardX
+![Static Badge](https://img.shields.io/badge/HarvardX%20-%20rgb(167%2C56%2C71)?style=for-the-badge&logo=harvard)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (completed)
 * [CS50's Web Programming with Python and Javascript](https://cs50.harvard.edu/web/2020/) (WIP)
 
-![Static Badge](https://img.shields.io/badge/freecodecamp-rgb(17%2C34%2C51)?logo=freecodecamp&logoColor=rgb(112%2C154%2C38)&color=rgb(17%2C34%2C51))
+![Static Badge](https://img.shields.io/badge/freecodecamp-rgb(17%2C34%2C51)?style=for-the-badge&logo=freecodecamp&logoColor=rgb(112%2C154%2C38)&color=rgb(17%2C34%2C51))
 * [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) (completed)
 * [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) (completed)
 * [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) (WIP)
 
-Scrimba
+![Static Badge](https://img.shields.io/badge/Scrimba%20-%20rgb(43%2C40%2C57)?style=for-the-badge&logo=Scrimba)
 * [Learn React](https://scrimba.com/learn/learnreact) (WIP)
 
-The Odin Project
+![Static Badge](https://img.shields.io/badge/The%20Odin%20Project%20-%20rgb(18%2C24%2C38)?style=for-the-badge&logo=javascript&labelColor=rgb%20(220%2C179%2C110))
 * [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) (WIP)
 
 ---
