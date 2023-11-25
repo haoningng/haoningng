@@ -40,9 +40,6 @@
 ![Static Badge](https://img.shields.io/badge/Scrimba%20-%20rgb(43%2C40%2C57)?style=for-the-badge&logo=Scrimba)
 * [Learn React](https://scrimba.com/learn/learnreact) (WIP)
 
-![Static Badge](https://img.shields.io/badge/The%20Odin%20Project%20-%20rgb(18%2C24%2C38)?style=for-the-badge&logo=javascript&labelColor=rgb%20(220%2C179%2C110))
-* [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) (WIP)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
