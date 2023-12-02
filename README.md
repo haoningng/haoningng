@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/haoning-ng-b27706b0/">
+  <a href="https://www.linkedin.com/in/nick-ng-b27706b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
@@ -19,7 +19,7 @@
 
 - :zap: In my free time, I read books and sometimes write technical content on [Medium](https://medium.com/@haoningng)
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nick_Ng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haoning-ng-b27706b0/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nick_Ng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nick-ng-b27706b0/)
 
 ---
 
