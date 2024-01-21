@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="sticker.png" width="120"/>
+</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nick-ng-b27706b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
