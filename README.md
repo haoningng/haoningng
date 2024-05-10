@@ -12,7 +12,7 @@
 
 ### Hi there, I'm Nick 👋
 
-- 👨‍💻 I’m a software engineering student at Holberton School Australia
+- 👨‍💻 I’m a junior dev at Tribal and a software engineering student at Holberton School Australia
 
 - 🔭 I'm currently learning about React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -37,7 +37,8 @@
 * [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) (WIP)
 
 ![Static Badge](https://img.shields.io/badge/Scrimba%20-%20rgb(43%2C40%2C57)?style=for-the-badge&logo=Scrimba)
-* [Learn React](https://scrimba.com/learn/learnreact) (WIP)
+* [Learn React](https://scrimba.com/learn/learnreact) (completed)
+* [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) (70% completed)
 
 ---
 
