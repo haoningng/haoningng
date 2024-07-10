@@ -14,7 +14,7 @@
 
 - 👨‍💻 I’m a junior dev at Tribal and a software engineering student at Holberton School Australia
 
-- 🔭 I'm currently learning about React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I'm currently learning about Typescript. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :zap: In my free time, I read books and sometimes write technical content on [Medium](https://medium.com/@haoningng)
 
@@ -25,7 +25,7 @@
 ### 📚 Education:
 
 ![Static Badge](https://img.shields.io/badge/Holberton%20School%20Australia%20-%20rgb(209%2C54%2C69)?style=for-the-badge)
-* [Full Stack Software Engineering Course](https://holbertonschool.com.au/software-engineering-holberton-australia/) (WIP)
+* [Full Stack Software Engineering Course](https://holbertonschool.com.au/software-engineering-holberton-australia/) (completed)
 
 ![Static Badge](https://img.shields.io/badge/HarvardX%20-%20rgb(167%2C56%2C71)?style=for-the-badge&logo=harvard)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) (completed)
@@ -38,7 +38,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Scrimba%20-%20rgb(43%2C40%2C57)?style=for-the-badge&logo=Scrimba)
 * [Learn React](https://scrimba.com/learn/learnreact) (completed)
-* [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) (70% completed)
+* [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) (completed)
 
 ---
 
